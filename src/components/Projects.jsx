@@ -204,9 +204,9 @@ const Projects = () => {
                   <div className="card-body text-center">
                     <h5 className="card-title">{data.title}</h5>
                     <p className="card-text">{data.description}</p>
-                    {/* <a href={data.demo} className="btn btn-danger">
+                    <a href={data.demo} className="btn btn-danger">
                       YouTube Demo
-                    </a> */}
+                    </a>
                     <a href="Ecommerceprojectreact" className="btn btn-primary mx-3">
                       Details
                     </a>
